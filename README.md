@@ -1,7 +1,8 @@
 # jmeter_course Readme
 
-The main goal of this repository is to showcase what I have learned during the course:
+The main goal of this repository is to showcase what I have learned during theses courses:
 * https://www.udemy.com/course/jmeter-teste-de-performance-de-aplicacoes-web/
+* https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/
 
 ## Installation
 
